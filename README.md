@@ -11,4 +11,4 @@
 
 |Deployment Type | Button |
 |----------------|--------|
-| Resource Group | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%253A%252F%252Fraw.githubusercontent.com%252FShviamGRC%252FMSSP%252Fmain%252FMSSPOnboard-main%252FMSSPOnboard-main%252FOnboard%252520a%252520Resource%252520Group%252FrgDelegatedResourceManagement.json) |
+| Resource Group | [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FShviamGRC%2FMSSP%2Fmain%2FrgDelegatedResourceManagement.json) |
